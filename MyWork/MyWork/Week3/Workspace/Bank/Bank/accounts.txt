@@ -1,0 +1,7 @@
+2:Princess Peach:Red Coins:23
+3:Princess Peach:Blue Coins:23
+4:Princess Peach:Gold Coins:23
+5:Princess Peach:Gold Coins:23
+6:Princess Peach:Gold Coins:23
+7:Princess Peach:Gold Coins:23
+13:Mario:Blue coins:45
