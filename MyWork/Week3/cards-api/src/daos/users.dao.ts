@@ -1,7 +1,7 @@
 import User from "../models/user";
 
 let users: User[] = [
-    new User(1, 'btkruppa', 'password', 'blake.kruppa@revature.com', 'blake', 'kruppa', '90210'),
+    new User(1, 'Luis', 'password', 'blake.kruppa@revature.com', 'blake', 'kruppa', '90210'),
     new User(2, 'bill', 'password', 'bill@revature.com', 'bill', 'bob', '90210'),
     new User(3, 'larry', 'password', 'larry@revature.com', 'larry', 'the cableman', '90210'),
 ];
